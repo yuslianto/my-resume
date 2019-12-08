@@ -1,5 +1,16 @@
 let resumeData = {
     "imagebaseurl":"https://yuslianto.github.io/",
+    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "aboutme":"I have finished my B.E. in Computer Science and have been working in industry for past few years.",
+    "address":"Indonesia",
+    "addreeMyHome":"Jl. Palem Blok D49 No. 1",
+    "city":"Kunciran Mas Permai 15144 Kota Tangerang, Banten",
+    "myphone":"+6281354615019",
+    "website":"https://yuslianto.github.io/",
+    "email":"yuslianto56@gmail.com",
+    "myresume":"https://drive.google.com/file/d/1l6wWYE1jFPA-aa7aN88adSLP_ZD4FKgP/view?usp=sharing",
+
+//my profil
     "myProfile":[
         {
             "title":"Fullname",
@@ -24,7 +35,8 @@ let resumeData = {
             "job3":"Junior Programmer",
         },
     ],
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    
+// sosial link    
     "socialLinks":[
         {
             "name":"linkedin",
@@ -53,14 +65,8 @@ let resumeData = {
         },
 
     ],
-    "aboutme":"I have finished my B.E. in Computer Science and have been working in industry for past few years.",
-    "address":"Indonesia",
-    "addreeMyHome":"Jl. Palem Blok D49 No. 1",
-    "city":"Kunciran Mas Permai 15144 Kota Tangerang, Banten",
-    "myphone":"+6281354615019",
-    "website":"https://yuslianto.github.io/",
-    "email":"yuslianto56@gmail.com",
-    "myresume":"https://drive.google.com/file/d/1l6wWYE1jFPA-aa7aN88adSLP_ZD4FKgP/view?usp=sharing",
+
+//educations
     "education":[
         {
             "UniversityName":"Pamulang University",
@@ -77,6 +83,8 @@ let resumeData = {
             "Achievements":"Some Achievements Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
         }
     ],
+
+// work
     "work":[
         {
             "CompanyName":"I'm Fresh Graduate",
@@ -93,6 +101,8 @@ let resumeData = {
             "Achievements":"Some descripton your work Achievements Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
         }
     ],
+
+//skills
     "skillsDescription":"Description about my skill",
     "MySkills":[
         {
@@ -116,28 +126,72 @@ let resumeData = {
             "className":"bar-expand react-native",
         },
     ],
+
+// portfolios
     "portfolio":[
         {
             "name":"project1",
             "description":"mobileapp",
-            "imgurl":"images/portfolio/phone.jpg"
+            "imgurl":"images/portfolio/guessNumber.png",
+            "linkHref":"https://github.com/yuslianto/GuesANumber",
+            "href":"#modal-01",
         },
         {
             "name":"project2",
             "description":"mobileapp",
-            "imgurl":"images/portfolio/project.jpg"
+            "imgurl":"images/portfolio/console.jpg",
+            "linkHref":"https://github.com/yuslianto",
+            "href":"#modal-02",
         },
         {
             "name":"project3",
             "description":"mobileapp",
-            "imgurl":"images/portfolio/project2.png"
+            "imgurl":"images/portfolio/farmerboy.jpg",
+            "linkHref":"https://github.com/yuslianto",
+            "href":"#modal-03",
         },
         {
             "name":"project4",
             "description":"mobileapp",
-            "imgurl":"images/portfolio/phone.jpg"
+            "linkHref":"https://github.com/yuslianto",
+            "imgurl":"images/portfolio/origami.jpg",
+            "href":"#modal-04",
+        },
+    ],
+
+//modal pop up portfolio
+    "modalPopUp": [
+        {
+            "id":"modal-01",
+            "imgModal":"images/portfolio/modals/m-guessNumber.png",
+            "title":"Guess Number 1",
+            "deskription":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+            "subTitle":"Branding, Webdesign"
+        },
+        {
+            "id":"modal-02",
+            "imgModal":"images/portfolio/modals/m-console.jpg",
+            "title":"Guess Number 2",
+            "deskription":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+            "subTitle":"Branding, Webdesign"
+        },
+        {
+            "id":"modal-03",
+            "imgModal":"images/portfolio/modals/m-farmerboy.jpg",
+            "title":"Guess Number 3",
+            "deskription":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+            "subTitle":"Branding, Webdesign"
+        },
+        {
+            "id":"modal-04",
+            "imgModal":"images/portfolio/modals/m-origami.jpg",
+            "title":"Guess Number 4",
+            "deskription":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+            "subTitle":"Branding, Webdesign"
         }
     ],
+
+//testimoni
     "testimonials":[
         {
             "description":"This is a sample testimonial",
