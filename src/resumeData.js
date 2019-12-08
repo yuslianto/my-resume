@@ -59,7 +59,7 @@ let resumeData = {
     "city":"Kunciran Mas Permai 15144 Kota Tangerang, Banten",
     "myphone":"+6281354615019",
     "website":"https://yuslianto.github.io/",
-    "email":"yusliant056@gmail.com",
+    "email":"yuslianto56@gmail.com",
     "myresume":"https://drive.google.com/file/d/1l6wWYE1jFPA-aa7aN88adSLP_ZD4FKgP/view?usp=sharing",
     "education":[
         {
