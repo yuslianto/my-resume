@@ -8,7 +8,7 @@ let resumeData = {
     "myphone":"+6281354615019",
     "website":"https://yuslianto.github.io/",
     "email":"yuslianto56@gmail.com",
-    "myresume":"https://drive.google.com/file/d/1l6wWYE1jFPA-aa7aN88adSLP_ZD4FKgP/view?usp=sharing",
+    "myresume":"https://drive.google.com/file/d/1JMoChaSDI3l206rAJbHUxSrgK5xl0Pg_/view?usp=sharing",
 
 //my profil
     "myProfile":[
